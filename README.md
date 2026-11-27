@@ -42,6 +42,10 @@ Esta é uma lista de sites públicos para quem deseja praticar e aprimorar habil
   Outro ambiente minimalista e muito utilizado para testes de autenticação e compras.  
   🔗 [https://www.saucedemo.com/](https://www.saucedemo.com/)
 
+- **GoodDeal**  
+  Loja fictícia de roupas esportivas, sem cadastro: busca, tamanho obrigatório, cupom, checkout com cartões de teste e conta demo.  
+  🔗 [https://delta-qa.com/playground/](https://delta-qa.com/playground/)
+
 - **UI Test Automation Playground**  
   Site com desafios interativos avançados, ideal para quem quer testar a capacidade de automação em elementos complexos.  
   🔗 [http://uitestingplayground.com](http://uitestingplayground.com)
